@@ -1,3 +1,4 @@
+<img width="1179" height="659" alt="Screenshot 2026-06-02 114201" src="https://github.com/user-attachments/assets/23243bb3-d766-4120-92f1-32de6392e917" />
 # Retail Data Warehouse & Power BI Analytics
 
 ## Overview
