@@ -1,3 +1,6 @@
+<img width="1179" height="646" alt="Screenshot 2026-06-02 114418" src="https://github.com/user-attachments/assets/5a89eef4-f3b1-4676-9298-9ad8a75573db" />
+<img width="1189" height="660" alt="Screenshot 2026-06-02 114340" src="https://github.com/user-attachments/assets/d0efe786-d3fc-4c0f-ae0c-8fabab00884b" />
+<img width="1192" height="659" alt="Screenshot 2026-06-02 114251" src="https://github.com/user-attachments/assets/61cb5435-f836-4751-918d-88835b12a04b" />
 <img width="1179" height="659" alt="Screenshot 2026-06-02 114201" src="https://github.com/user-attachments/assets/23243bb3-d766-4120-92f1-32de6392e917" />
 # Retail Data Warehouse & Power BI Analytics
 
